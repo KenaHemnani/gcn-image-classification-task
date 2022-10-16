@@ -1,0 +1,13 @@
+tqdm==4.64.1
+networkx==2.8.7
+numpy==1.23.4
+torch==1.12.1
+scikit-learn==1.1.2
+pandas==1.5.0
+torch_geometric==2.1.0
+torchvision==0.13.1
+torchmetrics==0.10.0
+matplotlib==3.6.1
+jupyter==1.0.0
+torch-sparse==0.6.15
+torch-scatter==2.0.9
