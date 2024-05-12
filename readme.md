@@ -7,7 +7,10 @@ implemented using pytorch and pytorch geometric. \
 
 For more details refer to: 
 https://github.com/KenaHemnani/gcn-image-classification-task/blob/master/Report.pdf
-In the above pdf GCN is explained and how it Pytorch geometric can be used for GCN is also explained.
+In the above pdf GCN is explained in simple language.
+
+**`Problem Formulation`**:
+Image classification is formulated as a Node Classification Task.
 
 ### Clone the repository: 
 git clone https://github.com/KenaHemnani/gcn-image-classification-task.git
