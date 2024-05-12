@@ -1,11 +1,13 @@
 # Graph Convolutional Network on MNIST Handwritten digits dataset
 
 In this repository Graph Convolutional Network and Convolutional Neural Network is 
-implemented using pytorch. \
-Dataset: MNIST Handwritten digits dataset.
+implemented using pytorch and pytorch geometric. \
+
+**`Dataset`**: MNIST Handwritten digits dataset.
 
 For more details refer to: 
 https://github.com/KenaHemnani/gcn-image-classification-task/blob/master/Report.pdf
+In the above pdf GCN is explained and how it Pytorch geometric can be used for GCN is also explained.
 
 ### Clone the repository: 
 git clone https://github.com/KenaHemnani/gcn-image-classification-task.git
